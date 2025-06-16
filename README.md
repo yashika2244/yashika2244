@@ -1,15 +1,19 @@
-# Hi, I'm Yashika Chauhan 👋
+<h1 align="center">Hi, I'm Yashika Chauhan 👋</h1>
+<h3 align="center">MERN Stack Developer | BCA Student | Passionate Tech Learner</h3>
 
-MERN Stack Developer | BCA Student | Passionate Tech Learner
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-url)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-url" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
-
-Hi, I am **Yashika Chauhan** 👋
 
 - 🎓 I'm a BCA student at **Your University Name**, deeply passionate about full-stack development using the **MERN stack**.
 - 🏗️ I build clean, responsive, and efficient web applications with focus on functionality and user experience.
