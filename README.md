@@ -35,7 +35,6 @@
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
@@ -74,7 +73,7 @@
 📧 Email: chauhanyashika@gmail.com
 💼 LinkedIn:https://www.linkedin.com/in/yashika-chauhan-082155367/
 
-  <P align="center  text-[12px]">🙏 Thank you for visiting my profile! Let's connect and collaborate 🤝</P>
+  <p align="center ">🙏 Thank you for visiting my profile! Let's connect and collaborate 🤝</p>
 
 
 
