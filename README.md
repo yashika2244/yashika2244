@@ -68,7 +68,7 @@
 
 💼 LinkedIn:https://www.linkedin.com/in/yashika-chauhan-082155367/
 
-🙏 Thank you for visiting my profile! Let's connect and collaborate 🤝
+  <P align="center">🙏 Thank you for visiting my profile! Let's connect and collaborate 🤝</P>
 
 
 
