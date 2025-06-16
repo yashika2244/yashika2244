@@ -2,14 +2,16 @@
 
 MERN Stack Developer | BCA Student | Passionate Tech Learner
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashika-chauhan-082155367/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](chauhanyashika820@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-url)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm a BCA student at  IFTM University, deeply passionate about full-stack development using the **MERN stack**.
+Hi, I am **Yashika Chauhan** 👋
+
+- 🎓 I'm a BCA student at **Your University Name**, deeply passionate about full-stack development using the **MERN stack**.
 - 🏗️ I build clean, responsive, and efficient web applications with focus on functionality and user experience.
 - 📚 Currently learning **TypeScript**, exploring **SQL**, and sharpening my **Data Structures & Algorithms** skills.
 - 👀 Actively looking for full-time roles in **Web Development**.
