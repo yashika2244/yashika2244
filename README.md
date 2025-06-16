@@ -58,17 +58,23 @@
 
 ---
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yashika224&show_icons=true&theme=radical" alt="yashika224's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashika224&layout=compact&theme=radical" alt="yashika224's Most Used Languages" /> </p>
+📊 GitHub Stauts
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashika224&show_icons=true&theme=radical" alt="yashika224's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashika224&layout=compact&theme=radical" alt="yashika224's Most Used Languages" />
+</p>
 
 
 📞 Contact Me
+
 📧 Email: chauhanyashika@gmail.com
-
-
 💼 LinkedIn:https://www.linkedin.com/in/yashika-chauhan-082155367/
 
-  <P align="center">🙏 Thank you for visiting my profile! Let's connect and collaborate 🤝</P>
+  <P align="center  text-[12px]">🙏 Thank you for visiting my profile! Let's connect and collaborate 🤝</P>
 
 
 
