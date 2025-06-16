@@ -1,4 +1,4 @@
-# Hi, I'm Yashu Chauhan 👋
+# Hi, I'm Yashika Chauhan 👋
 
 MERN Stack Developer | BCA Student | Passionate Tech Learner
 
