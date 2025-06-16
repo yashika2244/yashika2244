@@ -66,9 +66,7 @@
 
 <p >
   <img src="https://github-readme-stats.vercel.app/api?username=yashika2244&show_icons=true&theme=radical" alt="yashika2244's GitHub Stats" />
-</p>
-
-<p >
+</p><p >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashika2244&layout=compact&theme=radical" alt="yashika2244's Most Used Languages" />
 </p>
 
