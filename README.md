@@ -33,6 +33,17 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 ### Backend
+
+
+
+| Project                             | Description                                                                 | Live                                      | Source                                    |
+|------------------------------------|-----------------------------------------------------------------------------|------------------------------------------|------------------------------------------|
+| Home Services Booking App           | A full-stack application for booking home services with user & provider roles | [Live](https://your-live-link.com)       | [GitHub](https://github.com/your-repo)    |
+| Chat Application                   | A real-time chat app using Socket.io and React                              | [Live](https://your-live-link.com)       | [GitHub](https://github.com/your-repo)    |
+
+<!-- You can add more projects like this -->
+
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 
