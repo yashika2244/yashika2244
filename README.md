@@ -2,11 +2,11 @@
 <h3 align="center">MERN Stack Developer | BCA Student | Passionate Tech Learner</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-url" target="_blank">
+  <a href="https://www.linkedin.com/in/yashika-chauhan-082155367/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &nbsp;
-  <a href="mailto:your-email@gmail.com">
+  <a href="chauhanyashika@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm a BCA student at **Your University Name**, deeply passionate about full-stack development using the **MERN stack**.
+- 🎓 I'm a BCA student at  IFTM University , deeply passionate about full-stack development using the **MERN stack**.
 - 🏗️ I build clean, responsive, and efficient web applications with focus on functionality and user experience.
 - 📚 Currently learning **TypeScript**, exploring **SQL**, and sharpening my **Data Structures & Algorithms** skills.
 - 👀 Actively looking for full-time roles in **Web Development**.
