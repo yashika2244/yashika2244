@@ -65,11 +65,11 @@
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashika224$&show_icons=true&theme=radical" alt="yashika2244's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashika2244&show_icons=true&theme=radical" alt="yashika2244's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashika224$&layout=compact&theme=radical" alt="yashika2244's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashika2244&layout=compact&theme=radical" alt="yashika2244's Most Used Languages" />
 </p>
 
 
