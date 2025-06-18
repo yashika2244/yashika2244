@@ -55,7 +55,7 @@
 
 | Project                             | Description                                                                 | Live                                      | Source                                    |
 |------------------------------------|-----------------------------------------------------------------------------|------------------------------------------|------------------------------------------|
-| Services Booking App           | A full-stack application for booking services with user & provider roles | [Live](https://serivce.vercel.app/)       | [GitHub](https://github.com/yashika2244/Serivce)  |
+| GetMyServices App           | A full-stack application for booking services with user & provider roles | [Live](https://serivce.vercel.app/)       | [GitHub](https://github.com/yashika2244/Serivce)  |
 
 
 <!-- Add more projects here as needed -->
