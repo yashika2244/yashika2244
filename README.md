@@ -46,7 +46,27 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
 
+💼 Experience
+Full Stack Developer Intern
 
+PM Enterprises | Internship
+Duration: (yahan apni dates daal dena, e.g. June 2024 – Sept 2024)
+
+Worked as a Full Stack Developer Intern using the MERN stack (MongoDB, Express.js, React.js, Node.js)
+
+Developed and maintained responsive web applications with clean UI and smooth user experience
+
+Built and integrated RESTful APIs for frontend–backend communication
+
+Implemented authentication & authorization using JWT
+
+Worked on CRUD operations, form validation, and API integration
+
+Collaborated on real-world project requirements and feature implementation
+
+Used Git & GitHub for version control and project tracking
+
+Gained hands-on experience in real-time problem solving and production-ready code
 
 
 ---
@@ -57,9 +77,10 @@
 |------------------------------------|-----------------------------------------------------------------------------|------------------------------------------|------------------------------------------|
 | GetMyServices App           | A full-stack application for booking services with user & provider roles | [Live](https://serivce.vercel.app/)       | [GitHub](https://github.com/yashika2244/Serivce)  |
 
-
+| WebCratUI            | A full-stack application for creating websites or users | [Live](https://web-craft-eosin.vercel.app)       | [GitHub](https://github.com/Prashantpal123/WebCraft)  |
 <!-- Add more projects here as needed -->
 
+| Ram-Lal-Singh             | A full-stack application of Sarsvati vidya Mandir Inter College (Uttrakhand)  | [Live](https://ram-lal-singh-chauhan-svm.vercel.app/)       | [GitHub](https://github.com/Prashantpal123/RamLal-singh-chauhan-svm)  |
 ---
 
 ## 📊 GitHub Stats
