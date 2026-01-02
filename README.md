@@ -46,28 +46,27 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
 
-💼 Experience
+💼  ### Experience
 Full Stack Developer Intern
 
 PM Enterprises | Internship
-Duration: (July 2025 – oct 2025)
+July 2025 – October 2025
 
-Worked as a Full Stack Developer Intern using the MERN stack (MongoDB, Express.js, React.js, Node.js)
+Worked as a Full Stack Developer Intern specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js)
 
-Developed and maintained responsive web applications with clean UI and smooth user experience
+Designed and developed responsive, user-friendly web applications with a strong focus on UI/UX
 
-Built and integrated RESTful APIs for frontend–backend communication
+Built and consumed RESTful APIs to enable seamless frontend–backend integration
 
-Implemented authentication & authorization using JWT
+Implemented secure authentication and authorization using JWT
 
-Worked on CRUD operations, form validation, and API integration
+Performed CRUD operations, handled form validation, and integrated APIs efficiently
 
-Collaborated on real-world project requirements and feature implementation
+Collaborated with team members on real-world project requirements, feature development, and bug fixes
 
-Used Git & GitHub for version control and project tracking
+Used Git and GitHub for version control, code reviews, and project tracking
 
-Gained hands-on experience in real-time problem solving and production-ready code
-
+Gained hands-on experience in debugging, problem-solving, and writing production-ready code
 
 ---
 
