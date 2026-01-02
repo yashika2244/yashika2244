@@ -76,7 +76,7 @@ Gained hands-on experience in real-time problem solving and production-ready cod
 | Project                             | Description                                                                 | Live                                      | Source                                    |
 |------------------------------------|-----------------------------------------------------------------------------|------------------------------------------|------------------------------------------|
 | GetMyServices App           | A full-stack application for booking services with user & provider roles | [Live](https://serivce.vercel.app/)       | [GitHub](https://github.com/yashika2244/Serivce)  |
-|------------------------------------|-----------------------------------------------------------------------------|------------------------------------------|------------------------------------------|
+
 | WebCratUI            | A full-stack application for creating websites or users | [Live](https://web-craft-eosin.vercel.app)       | [GitHub](https://github.com/Prashantpal123/WebCraft)  |
 <!-- Add more projects here as needed -->
 
