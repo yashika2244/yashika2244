@@ -79,7 +79,7 @@ Gained hands-on experience in real-time problem solving and production-ready cod
 |------------------------------------|-----------------------------------------------------------------------------|------------------------------------------|------------------------------------------|
 | WebCratUI            | A full-stack application for creating websites or users | [Live](https://web-craft-eosin.vercel.app)       | [GitHub](https://github.com/Prashantpal123/WebCraft)  |
 <!-- Add more projects here as needed -->
-|------------------------------------|-----------------------------------------------------------------------------|------------------------------------------|------------------------------------------|
+
 | Ram-Lal-Singh             | A full-stack application of Sarsvati vidya Mandir Inter College (Uttrakhand)  | [Live](https://ram-lal-singh-chauhan-svm.vercel.app/)       | [GitHub](https://github.com/Prashantpal123/RamLal-singh-chauhan-svm)  |
 ---
 
