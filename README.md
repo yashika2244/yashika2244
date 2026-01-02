@@ -46,6 +46,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
 
+---
 ## 💼 Experience
 
 ### Full Stack Developer Intern  
