@@ -73,15 +73,12 @@ Gained hands-on experience in real-time problem solving and production-ready cod
 
 ## 📦 Projects
 
-| Project                             | Description                                                                 | Live                                      | Source                                    |
-|------------------------------------|-----------------------------------------------------------------------------|------------------------------------------|------------------------------------------|
-| GetMyServices App           | A full-stack application for booking services with user & provider roles | [Live](https://serivce.vercel.app/)       | [GitHub](https://github.com/yashika2244/Serivce)  |
+| Project Name        | Description                                                                 | Live                                                                 | Source                                                                 |
+|---------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------|
+| **GetMyServices App** | Full-stack service booking platform with user & provider roles             | [Live](https://serivce.vercel.app/)                                  | [GitHub](https://github.com/yashika2244/Serivce)                        |
+| **WebCraftUI**       | Full-stack application for creating websites for users                     | [Live](https://web-craft-eosin.vercel.app)                           | [GitHub](https://github.com/Prashantpal123/WebCraft)                    |
+| **Ram Lal Singh SVM**| Full-stack website for Saraswati Vidya Mandir Inter College (Uttarakhand) | [Live](https://ram-lal-singh-chauhan-svm.vercel.app/)                | [GitHub](https://github.com/Prashantpal123/RamLal-singh-chauhan-svm)    |
 
-| WebCratUI            | A full-stack application for creating websites or users | [Live](https://web-craft-eosin.vercel.app)       | [GitHub](https://github.com/Prashantpal123/WebCraft)  |
-<!-- Add more projects here as needed -->
-
-| Ram-Lal-Singh             | A full-stack application of Sarsvati vidya Mandir Inter College (Uttrakhand)  | [Live](https://ram-lal-singh-chauhan-svm.vercel.app/)       | [GitHub](https://github.com/Prashantpal123/RamLal-singh-chauhan-svm)  |
----
 
 ## 📊 GitHub Stats
 
