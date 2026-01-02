@@ -1,16 +1,4 @@
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&weight=500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=32&repeat=false&lines=Hi%2C+I'm+Yashika+Chauhan+%F0%9F%91%8B&v=1"
-    alt="Typing Animation"
-  />
-</h1>
-
-<h3 align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&weight=500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&height=25&repeat=false&lines=MERN+Stack+Developer+%7C+BCA+Student+%7C+Passionate+Tech+Learner&v=1"
-    alt="Typing Animation"
-  />
-</h3>
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&weight=500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=35&repeat=false&lines=Hi%2C+I'm+Yashika+Chauhan+%F0%9F%91%8B&v=1" alt="Typing Animation" /> </h1> <h3 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&weight=500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&height=28&repeat=false&lines=MERN+Stack+Developer+%7C+BCA+Student+%7C+Passionate+Tech+Learner&v=1" alt="Typing Animation" /> </h3>
 
 
 
