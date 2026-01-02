@@ -50,7 +50,7 @@
 Full Stack Developer Intern
 
 PM Enterprises | Internship
-Duration: (yahan apni dates daal dena, e.g. June 2024 – Sept 2024)
+Duration: (July 2025 – oct 2025)
 
 Worked as a Full Stack Developer Intern using the MERN stack (MongoDB, Express.js, React.js, Node.js)
 
@@ -76,10 +76,10 @@ Gained hands-on experience in real-time problem solving and production-ready cod
 | Project                             | Description                                                                 | Live                                      | Source                                    |
 |------------------------------------|-----------------------------------------------------------------------------|------------------------------------------|------------------------------------------|
 | GetMyServices App           | A full-stack application for booking services with user & provider roles | [Live](https://serivce.vercel.app/)       | [GitHub](https://github.com/yashika2244/Serivce)  |
-
+|------------------------------------|-----------------------------------------------------------------------------|------------------------------------------|------------------------------------------|
 | WebCratUI            | A full-stack application for creating websites or users | [Live](https://web-craft-eosin.vercel.app)       | [GitHub](https://github.com/Prashantpal123/WebCraft)  |
 <!-- Add more projects here as needed -->
-
+|------------------------------------|-----------------------------------------------------------------------------|------------------------------------------|------------------------------------------|
 | Ram-Lal-Singh             | A full-stack application of Sarsvati vidya Mandir Inter College (Uttrakhand)  | [Live](https://ram-lal-singh-chauhan-svm.vercel.app/)       | [GitHub](https://github.com/Prashantpal123/RamLal-singh-chauhan-svm)  |
 ---
 
