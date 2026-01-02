@@ -1,5 +1,11 @@
-<h1 align="center">Hi, I'm Yashika Chauhan 👋</h1>
-<h3 align="center">MERN Stack Developer | BCA Student | Passionate Tech Learner</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Yashika+Chauhan+%F0%9F%91%8B" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;BCA+Student;Passionate+Tech+Learner" alt="Typing SVG" />
+</h3>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yashika-chauhan-082155367/" target="_blank">
